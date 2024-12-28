@@ -2,24 +2,44 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Coach, Mentor, Guide.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: vishva_photo.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>New Delhi, India</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+An Ex-DM and Spl. Commissioner, Govt. of Delhi, Shri Vishva Mohan has a deep passion for teaching and mentoring. His profile is summarized below:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+- **B.Tech, IIT Delhi (1988)**  
+  - All India JEE Rank: 201  
+  - CGPA: 7.87/10.00  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- **MBA, University of Notre Dame, USA (2005)**  
+  - GMAT: 760/800  
+  - TOEFL: 283/300  
+  - GPA: 3.91/4.00  
+
+- **UPSC IAS (Combined Civil Services) Exam (1991)**  
+  - All India Rank: 479  
+  - Optional Subjects: Physics and Mechanical Engineering  
+
+- **Experience**  
+  - Over two decades of teaching and mentoring  
+
+- **Specialization**  
+  - JEE (Advanced) and JEE (Main)/NEET level Physics  
+  - CBSE Physics  
+  - SAT: English, Reasoning/Analytical, Math  
+  - Statement of Purpose (SoP) for admission to North American universities  
+
+- **Proven Track Record**  
+  - Many students successfully admitted to IITs, DTU, and other top institutions  
+  - All those who completed UG studies have subsequently been admitted to top US universities/IIMs or are excelling in MNCs/entrepreneurship  
